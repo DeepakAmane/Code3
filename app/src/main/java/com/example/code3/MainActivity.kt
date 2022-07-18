@@ -13,7 +13,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun add() {
-        
+
     }
 
+    fun sub() {
+        
+    }
 }
